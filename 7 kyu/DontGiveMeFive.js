@@ -17,4 +17,4 @@ for(i = a; i <= b; i++) {
     }
 }
 
-console.log(arr);
+console.log(arr.length);
